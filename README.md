@@ -1,4 +1,4 @@
-#Firebase Authentication in Flutter (Login Page)
+Firebase Authentication in Flutter (Login Page)
 
 ###This repository contains a Flutter project that demonstrates a Login Page using Firebase Authentication. The page supports user login with email and password, as well as password reset functionality.
 
